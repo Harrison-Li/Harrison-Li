@@ -7,3 +7,7 @@ My name is Bo Li. I am a fourth-year undergraduate student in the joint program 
 My research interests focus on the inverse design of materials through generative models and the development of autonomous platforms.
 
 
+# 📕Education
+- **Queen Mary University of London**  *[2021.09-2025.06]* \
+  BEng with Hons in Materials Science and Engineering\
+  First Class with Honours.
