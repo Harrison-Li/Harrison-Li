@@ -5,7 +5,7 @@ My name is Bo Li. I am a fourth-year undergraduate student in the joint program 
 
 # Research interests
 My research interests focus on the inverse design of materials through **generative models** and the development of **autonomous platforms**.\
-Feel free to connect with me on my [Linkedin](https://www.linkedin.com/in/bo-li-5b41812a6), or via my email.
+Feel free to connect with me on my [Linkedin](https://www.linkedin.com/in/bo-li-5b41812a6) profile, or via my email.
 
 
 # 📕Education
