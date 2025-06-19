@@ -12,3 +12,6 @@ Feel free to connect with me on my [Linkedin](https://www.linkedin.com/in/bo-li-
 - **Queen Mary University of London**  *[2021.09-2025.06]* \
   BEng with Honours in Materials Science and Engineering\
   First Class degree with Honours.
+
+- **National University of Singapore**  *[2025.08-Present]* \
+  Master of Science in Materials Science and Engineering\
