@@ -14,4 +14,4 @@ Feel free to connect with me on my [Linkedin](https://www.linkedin.com/in/bo-li-
   First Class degree with Honours.
 
 - **National University of Singapore**  *[2025.08-Present]* \
-  Master of Science in AI for materials Science (Specialised program)\
+  Master of Science in AI for materials Science (Specialised program)
