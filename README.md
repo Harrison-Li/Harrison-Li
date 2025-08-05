@@ -5,7 +5,7 @@ My name is Bo Li. I am now a graduate student, and I am from the Materials Scien
 
 # Research interests
 My research interests focus on the inverse design of materials through **generative models** and the development of **autonomous platforms**. Recently, I was inspired by **AIQC**, which utilizes AI to learn wavefunctions, seems to be a good choice for property prediction🤔.\
-Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/bo-li-5b41812a6) profile or via my email.
+Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/bo-li-5b41812a6) profile or reach out via my email. I’m always happy to chat with anyone interested in AI for Science (AI4S).
 
 
 # 📕Education
