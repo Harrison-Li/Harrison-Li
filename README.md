@@ -1,7 +1,7 @@
 # Welcome
 Hi!👋 
 
-My name is Bo Li. I am now a graduate student, and I am from the Materials Science background, hoping to utilize machine learning to accelerate materials discovery, especially for inverse design of materials and Large Language Models for automated labs to reduce the cost of traditional research.
+My name is Bo Li, a graduate student in materials science, hoping to utilize machine learning to accelerate materials discovery, especially for inverse design of materials and Large Language Models for automated labs to reduce the cost of traditional research.
 
 # Research interests
 My research interests focus on the inverse design of materials through **generative models** and the development of **autonomous platforms**. Recently, I was inspired by **AIQC**, which utilizes AI to learn wavefunctions, seems to be a good choice for property prediction🤔.\
