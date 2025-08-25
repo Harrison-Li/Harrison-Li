@@ -4,13 +4,13 @@ Hi!👋
 My name is Bo Li, a graduate student in materials science, hoping to utilize machine learning to accelerate materials discovery, especially for inverse design of materials and Large Language Models for automated labs to reduce the cost of traditional research.
 
 # Research interests
-My research interests focus on the inverse design of materials through **generative models** and the development of **autonomous platforms**. Recently, I was inspired by **AIQC**, which utilizes AI to learn wavefunctions, seems to be a good choice for property prediction🤔.\
+My research interests focus on the inverse design of materials through generative models and the development of autonomous platforms. Recently, I was inspired by AIQC, which utilizes AI to learn wavefunctions and force fields. It appears to be a promising approach for property prediction, as it maintains the accuracy of high-performance computing while achieving the speed of machine learning. 🤔\
 Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/bo-li-5b41812a6) profile or reach out via my email. I’m always happy to chat with anyone interested in AI for Science (AI4S).
 
 
 # 📕Education
 - **National University of Singapore**  *[2025.08-Present]* \
-  Master of Science in Materials Science
+  Master of Science in Materials Science (Specialised in AI for functional materials program)
   
 - **Queen Mary University of London**  *[2021.09-2025.06]* \
   BEng with Honours in Materials Science and Engineering\
