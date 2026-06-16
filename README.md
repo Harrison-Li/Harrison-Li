@@ -1,9 +1,9 @@
 # Welcome
 Hi!👋 
 
-My name is Bo Li, a graduate student in materials science, hoping to utilize machine learning to accelerate materials discovery. My interest lies in:
-1. Generative Models for structure prediction, e.g. CSP, Molecule Design.
-2. AI for Simulation, surrogate models for MD traj.
+My name is Bo Li, hoping to utilize machine learning to accelerate materials discovery. My interest lies in:
+1. Universal Latent structure prediction models (inorganic, organic, hybrid, molecules).
+2. AI for Simulation, surrogate models for MD traj; MLIP.
 4. LLM for Reaction plan and Retrosynthesis reasoning
 5. Agentic AI, auto-research Graph Agent for Self-Driving-Lab.
 
